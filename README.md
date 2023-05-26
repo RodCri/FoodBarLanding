@@ -1,6 +1,6 @@
 # FoodBar Landing Page
 
-![Design preview for the Food Bar challenge](./design/desktop-preview.png)
+![Design preview for the Food Bar challenge](./design/preview.png)
 
 ## Welcome! 👋
 
